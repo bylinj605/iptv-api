@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-01 23:56:56,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+2025-05-02 06:25:28,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
@@ -441,7 +441,6 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226926/1.m3u8?
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 四川卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
@@ -540,6 +539,14 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226573/1.m3u8?
 
 ☘️浙江频道,#genre#
+浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
+遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
+庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
+余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 
 ☘️北京频道,#genre#
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
@@ -576,6 +583,7 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
 
 ☘️辽宁频道,#genre#
+辽宁经济,http://ls.qingting.fm/live/23797.m3u8
 
 ☘️湖南频道,#genre#
 金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
@@ -632,6 +640,8 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 厦门卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 厦门卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
 ☘️海南频道,#genre#
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
@@ -667,10 +677,9 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 
 ☘️安徽频道,#genre#
 
-☘️宁夏频道,#genre#
-
 ☘️吉林频道,#genre#
 延边卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226516/index.m3u8
@@ -682,6 +691,8 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 ☘️青海频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8
+西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -839,5 +850,3 @@ CCTV-15,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-15,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?
-
-🏛经典剧场,#genre#
